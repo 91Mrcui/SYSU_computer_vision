@@ -1,0 +1,2 @@
+code文件夹中为源程序
+result文件夹中为DDPM在MNIST和Fashion MNIST上的生成效果图

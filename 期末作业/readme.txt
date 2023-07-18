@@ -1,0 +1,2 @@
+选题：综述类文章，主题是Seam carving
+code文件夹中为用于实验的seam carving程序及输入图片

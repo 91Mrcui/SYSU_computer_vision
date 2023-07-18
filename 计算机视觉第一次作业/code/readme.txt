@@ -1,0 +1,6 @@
+Harris.py为Harris 角点检测算法程序
+panorama_Stitcher.py为关键点匹配和图像拼接的类
+main1.py为两张图像的关键点匹配、拼接
+main2.py拼接多张图像
+
+可能需要修改图片路径以运行程序
